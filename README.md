@@ -6,6 +6,13 @@ A utility script to launch **all** .desktop applications simultaneously.
 
 This script provides a convenient way to start all applications at once. It's not particularly practical for anything.
 
+## Screenshots
+The Gnome activity overview usually ends up looking like this:
+![screenshot](Screenshots/1.png "Screenshot")
+
+## Inspiration
+This script was inspired by [this reddit post](https://www.reddit.com/r/arch/comments/1o98xqs/woah/).
+
 ## Installation
 
 1. Clone this repository

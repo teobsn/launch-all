@@ -79,7 +79,7 @@ for dir in "${dirs[@]}"; do
             continue
         fi
 
-        echo "Ready to launch: $app_id"
+        echo "Launching: $app_id"
 
         if [ "$launcher_type" = "app_id" ]; then
             "$launcher_cmd" "$app_id" 2>/dev/null &

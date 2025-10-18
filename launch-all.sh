@@ -86,7 +86,7 @@ for dir in "${dirs[@]}"; do
             "$launcher_cmd" "$desktop_file" 2>/dev/null &
         fi
 
-        echo "$(date '+%Y-%m-%d %H:%M:%S') - Launched: $app_id (via $launcher_cmd)" >> "$logfile"
+        echo "$(date '+%Y-%m-%d %H:%M:%S') - Launched: $app_id" >> "$logfile"
 
     done
 done

@@ -36,6 +36,7 @@ skip_list=(
     "looking-glass"
     "qemu"
     "protontricks-launch"
+    "gnome-initial-setup"
 )
 
 # Choose launcher once at startup: prefer gtk-launch, fall back to xdg-open

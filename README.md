@@ -1,6 +1,6 @@
 # launch-all script
 
-A utility script to launch **all** .desktop applications simultaneously.
+A utility script to launch **all** `.desktop` applications simultaneously.
 
 ## Description
 

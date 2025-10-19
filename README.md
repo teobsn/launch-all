@@ -31,7 +31,7 @@ This script was inspired by [this reddit post](https://www.reddit.com/r/arch/com
 
 - Bash shell
 - `gtk-launch` or `xdg-open` utilities
-- The applications launched must be .desktop files in standard directories
+- The applications launched must have .desktop files in standard directories
 
 ## Contributing
 
